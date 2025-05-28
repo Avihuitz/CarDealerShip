@@ -23,3 +23,4 @@ Menu-driven Java application that lets a dealership:
 | **Exception handling demo**       | Tailored messages for user input errors |
 
 ---
+![quickrun](https://github.com/user-attachments/assets/46ed1906-c9e7-4fe4-a439-105c6e800e43)
